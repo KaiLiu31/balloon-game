@@ -13,10 +13,10 @@ const assets = {
 };
 
 const balloonTypes = {
-  red: { score: 1, speed: 2 },
-  blue: { score: 2, speed: 3 },
-  yellow: { score: 3, speed: 4 },
-  black: { score: -1, speed: 5 }
+  red: { score: 1, speed: 1 },
+  blue: { score: 2, speed: 2 },
+  yellow: { score: 3, speed: 3 },
+  black: { score: -1, speed: 2 }
 };
 
 let bgImg, balloonImgs = {}, explosionImg;
