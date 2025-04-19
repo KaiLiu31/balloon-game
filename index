@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>射氣球遊戲</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <canvas id="gameCanvas" width="800" height="600"></canvas>
+  <button id="restartBtn">重新開始</button>
+  <audio id="shootSound" src="assets/shoot.wav"></audio>
+  <script src="main.js"></script>
+</body>
+</html>
